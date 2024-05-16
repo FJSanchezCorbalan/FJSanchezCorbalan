@@ -1,7 +1,4 @@
 # 💫 About Me:
-¡Hola! 👋 Soy Fernando, un apasionado programador de 21 años proveniente de España, con ganas de aprender y destacar en el mundo del desarrollo de software.<br><br>Desde que descubrí mi pasión por la programación, he estado inmerso en un viaje emocionante hacia la excelencia técnica. Mi interés por la prpgramación me impulsa a buscar constantemente nuevos retos y oportunidades para crecer como profesional.<br><br>Considero que siempre hay nuevos conceptos por aprender y esto me mantiene alerta. Ya sea trabajando en proyectos personales o colaborando en equipos, me esfuerzo por ofrecer soluciones innovadoras y eficientes.<br><br>Mi objetivo es sobresalir en todo lo que hago, mi objetivo es orientarme tanto a clientes como a resultados en todos los proyectos en los cuales me embarco. Estoy ilusionado por la oportunidad de trabajar con personas que compartan mi objetivo.<br><br>¡No dudes en contactarme si estás buscando un desarrollador entusiasta y comprometido para tu equipo! Estoy listo para unirme de lleno en desafíos y contribuir al éxito de tu proyecto.<br><br>¡Vamos a construir algo increíble juntos! 💻✨
-
-# 💫 About Me:
 Hello! 👋 I’m Fernando, a passionate 21-year-old programmer from Spain, eager to highlight and excel in the world of software development.
 
 Since discovering my passion for programming, I’ve been on an exciting journey toward technical excellence. My interest in programming drives me to constantly seek new challenges and opportunities to grow as a professional.
