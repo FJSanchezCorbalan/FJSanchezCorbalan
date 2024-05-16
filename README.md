@@ -1,6 +1,15 @@
 # 💫 About Me:
 ¡Hola! 👋 Soy Fernando, un apasionado programador de 21 años proveniente de España, con ganas de aprender y destacar en el mundo del desarrollo de software.<br><br>Desde que descubrí mi pasión por la programación, he estado inmerso en un viaje emocionante hacia la excelencia técnica. Mi interés por la prpgramación me impulsa a buscar constantemente nuevos retos y oportunidades para crecer como profesional.<br><br>Considero que siempre hay nuevos conceptos por aprender y esto me mantiene alerta. Ya sea trabajando en proyectos personales o colaborando en equipos, me esfuerzo por ofrecer soluciones innovadoras y eficientes.<br><br>Mi objetivo es sobresalir en todo lo que hago, mi objetivo es orientarme tanto a clientes como a resultados en todos los proyectos en los cuales me embarco. Estoy ilusionado por la oportunidad de trabajar con personas que compartan mi objetivo.<br><br>¡No dudes en contactarme si estás buscando un desarrollador entusiasta y comprometido para tu equipo! Estoy listo para unirme de lleno en desafíos y contribuir al éxito de tu proyecto.<br><br>¡Vamos a construir algo increíble juntos! 💻✨
 
+💫 About Me:
+Hello! 👋 I’m Fernando, a passionate 21-year-old programmer from Spain, eager to highlight and excel in the world of software development.
+Since discovering my passion for programming, I’ve been on an exciting journey toward technical excellence. My interest in programming drives me to constantly seek new challenges and opportunities to grow as a professional.
+I believe there are always new concepts to learn, and this keeps me alert. Whether working on personal projects or collaborating in teams, I strive to deliver innovative and efficient solutions.
+My goal is to highlight  in everything I do, focusing on both clients and results in all the projects I embark on. I’m excited about the opportunity to work with people who share my objectives.
+Don’t hesitate to contact me if you’re looking for an enthusiastic and committed developer for your team! I’m ready to dive into challenges and contribute to the success of your project.
+Let’s build something incredible together! 💻✨
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-jos%C3%A9-s%C3%A1nchez-corbal%C3%A1n-773a3a180/) 
