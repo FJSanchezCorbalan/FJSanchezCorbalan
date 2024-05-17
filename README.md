@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I’m Fernando, a passionate 21-year-old programmer from Spain, eager to highlight and excel in the world of software development.
+Hey there! 👋 I’m Fernando, a passionate 21-year-old programmer from Spain, eager to highlight and excel in the world of software development.
 
 Since discovering my passion for programming, I’ve been on an exciting journey toward technical excellence. My interest in programming drives me to constantly seek new challenges and opportunities to grow as a professional.
 
