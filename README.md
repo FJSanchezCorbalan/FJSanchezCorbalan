@@ -1,10 +1,10 @@
 # 💫 Sobre mí:
 
-¡Hola! 👋  Soy Fernando, un Desarrollador Web de 21 años enfocado en las TIC's, especialmente en la creación de aplicaciones web modernas e intuitivas. Tengo experiencia en el sector comercial, lo que me ha permitido comprender mejor las necesidades del cliente y cómo aplicar soluciones tecnológicas para satisfacerlas.💻✨
+¡Hola! 👋  Soy Fernando, un Desarrollador Web de 21 años enfocado en las TIC's, especialmente en la creación de aplicaciones web modernas e intuitivas. Tengo experiencia en el sector comercial, lo que me ha permitido comprender mejor las necesidades del cliente y cómo aplicar soluciones tecnológicas para satisfacerlas.
 
 
 
-# 🌐 Redes Sociales:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-jos%C3%A9-s%C3%A1nchez-corbal%C3%A1n-773a3a180/) 
 
 # 💻 Mi stack:
